@@ -1,5 +1,5 @@
 require 'sinatra'
 
-get '/' do
-  "Hello World"
+get '/public/mypage' do
+#   "Hello World"
 end
